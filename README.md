@@ -1,3 +1,3 @@
-#Samuel Jaramillo y Luciana Perez
+#Gabriel escobar
 ##Descripcion
 Archivo en el que se usa HTML, CSS y JS
